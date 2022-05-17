@@ -27,6 +27,7 @@ This project was built using these technologies.
 ## Features
 
 Link : https://person-generators.netlify.app/
+<br />
 Api : https://randomuser.me/api/
 
 
